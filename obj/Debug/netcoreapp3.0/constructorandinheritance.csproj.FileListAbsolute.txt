@@ -1,0 +1,11 @@
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.exe
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.deps.json
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.runtimeconfig.json
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.runtimeconfig.dev.json
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.dll
+C:\csharp\ar\constructorandinheritance\bin\Debug\netcoreapp3.0\constructorandinheritance.pdb
+C:\csharp\ar\constructorandinheritance\obj\Debug\netcoreapp3.0\constructorandinheritance.csprojAssemblyReference.cache
+C:\csharp\ar\constructorandinheritance\obj\Debug\netcoreapp3.0\constructorandinheritance.AssemblyInfoInputs.cache
+C:\csharp\ar\constructorandinheritance\obj\Debug\netcoreapp3.0\constructorandinheritance.AssemblyInfo.cs
+C:\csharp\ar\constructorandinheritance\obj\Debug\netcoreapp3.0\constructorandinheritance.dll
+C:\csharp\ar\constructorandinheritance\obj\Debug\netcoreapp3.0\constructorandinheritance.pdb
